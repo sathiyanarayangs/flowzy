@@ -1,0 +1,10 @@
+.vscode/**
+.vscode-test/**
+webview/src/**
+webview/node_modules/**
+webview/public/**
+node_modules/**
+.gitignore
+webpack.config.js
+**/*.map
+**/.DS_Store
