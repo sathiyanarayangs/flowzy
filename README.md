@@ -119,3 +119,8 @@ Found a bug or have a feature request? Open an issue on [GitHub](https://github.
 ---
 
 *Built for developers who want to stay in flow. ⚡*
+
+## Run Locally
+ 
+- cd webview -> npm i -> cd.. -> npm i
+- cd webview -> npm run build -> cd.. -> npm run compile
