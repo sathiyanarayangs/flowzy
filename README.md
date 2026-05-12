@@ -112,7 +112,9 @@ When all steps are done, mark the ticket as complete. Flowzy records your comple
 
 ---
 
-<img width="436" height="224" alt="image" src="https://github.com/user-attachments/assets/84f0f15d-d475-444d-8444-6c88fe8ed5b5" />
+## Architecture
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b59f6631-c758-4ea8-8a2e-661bb4bc005b" />
 
 
 ## Feedback & Issues
